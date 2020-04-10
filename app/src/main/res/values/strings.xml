@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculationTraining</string>
+
+    <string-array name="numbers_of_spinner">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
