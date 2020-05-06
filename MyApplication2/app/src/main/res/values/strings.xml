@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">my単語帳</string>
+    <string name="wordList_text_1">登録されている単語一覧</string>
+    <string name="wordList_text_2">修正はその単語の行をタップ、削除の場合は長押し</string>
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+    <string name="edit_text_3">問題と答えを入力して登録ボタンを押してください</string>
+    <string name="edit_text_4">問題</string>
+    <string name="edit_text_5">こたえ</string>
+    <string name="saved">登録が完了しました</string>
+    <string name="remaining_number">のこり問題数</string>
+    <string name="radio_button_01">暗記済みの単語を除外する</string>
+    <string name="radio_button_02">暗記済みの単語を含む</string>
+
+    <string name="intent_key_status">intent_key_status</string>
+    <string name="intent_key_question">intent_key_question</string>
+    <string name="intent_key_answer">intent_key_answer</string>
+    <string name="intent_key_position">intent_key_position</string>
+    <string name="intent_key_memory_status">intent_key_memory_status</string>
+    <string name="db_field_Question">strQuestion</string>
+    <string name="db_field_Answer">strAnswer</string>
+    <string name="db_field_bool_memory_Frag">boolMemoryFrag</string>
+
+</resources>
